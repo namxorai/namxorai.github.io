@@ -1,0 +1,51 @@
+*{
+    padding: 0%;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding: 10,px;
+    /* background-color: aqua;  */
+    margin: 3px;
+}
+
+.nav .first a{
+    text-decoration: none;
+    color: black;
+}
+
+.nav .second a{
+    text-decoration: none;
+color: black;
+padding-right: 10px;
+}
+
+.hero .left {
+height: 100px;
+width: 50%;
+background-color: aqua;
+}
+.hero .right{
+height: 100px;
+width: 50;
+}
+.hero{
+    height: 100px;
+    background-color:black ;
+}
+/* 
+
+.hero .left h1{
+    color: aliceblue;
+}
+
+blockquote{
+    color: aqua;
+}
+.hero .left p {
+    color: aliceblue;
+} */
